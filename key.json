@@ -1,5 +1,5 @@
 {
-  "showDialog": true,
+  "showDialog": false,
   "expires": "08-10-2025",
   "title": "UPDATE AVAILABLE",
   "message": "Get the newest features and improvements.",
